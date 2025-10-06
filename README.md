@@ -8,6 +8,6 @@ It automatically tracks and updates stock details, reduces manual work, and ensu
 
 Work in Progress......................
 
-
+[![Image Description](https://github.com/Ashu-Data-Analytix/Automated_INVENTORY-_REPORT_Inprocess..../blob/main/image%20(3).png?raw=true)](https://example.com)
 
 
