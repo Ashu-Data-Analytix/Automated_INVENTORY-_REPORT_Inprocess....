@@ -9,8 +9,6 @@ It automatically tracks and updates stock details, reduces manual work, and ensu
 Work in Progress......................
 
 
-<img src="https://github.com/Ashu-Data-Analytix/Ashu-Data-Analytix/blob/main/png.jpeg?raw=true" width="800" />
-<br>
-<a href="C:\Users\DELL\Downloads">Open Downloads Folder</a>
+<a href="https://example.com/downloads/">Open Downloads Folder</a>
 
 
