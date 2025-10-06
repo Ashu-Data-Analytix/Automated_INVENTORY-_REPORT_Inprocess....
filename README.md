@@ -9,6 +9,5 @@ It automatically tracks and updates stock details, reduces manual work, and ensu
 Work in Progress......................
 
 
-<a href="https://example.com/downloads/">Open Downloads Folder</a>
 
 
